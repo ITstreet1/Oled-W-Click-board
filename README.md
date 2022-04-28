@@ -1,2 +1,2 @@
 # Oled-W-Click-board
-Click board fot interfacing mikroBUS sockets
+Click board for interfacing mikroBUS sockets
